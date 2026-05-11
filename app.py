@@ -55,7 +55,7 @@ _, col_center_img, _ = st.columns([1, 1, 1])
 with col_center_img:
     st.image("UiTM FSKM.png", width=350)
 
-st.markdown("<h1 style='text-align: center;'>☁️ M-HAP: Malaysian Haze Analysis and Prediction System</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>☁️ M-HAPS: Malaysian Haze Analysis and Prediction System</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>Monitor current environmental conditions and 24-hour particulate matter predictions.</p>", unsafe_allow_html=True)
 
 st.markdown("---")
